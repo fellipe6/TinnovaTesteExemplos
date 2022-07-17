@@ -1,8 +1,11 @@
 # TinnovaTesteExemplos
 
-## Sobre o Projeto
+## Tecnologias utilizadas.
 ##### Utilizado java 11.
 ##### Eclipse.
+
+## Sobre o projeto:
+##### Teste de lógicas para seleção TINNOVA.
 
 ## TESTE I - VOTOS EM RELAÇÃO A TOTAL DE ELEITORES
 
