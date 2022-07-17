@@ -1,5 +1,9 @@
 # TinnovaTesteExemplos
 
+## Sobre o Projeto
+##### Utilizado java 11.
+##### Eclipse.
+
 ## TESTE I - VOTOS EM RELAÇÃO A TOTAL DE ELEITORES
 
 ATV01 - Faça uma classe com 3 métodos que calcule o percentual de votos válidos, em brancos e nulos em relação ao total de eleitores, considerando:
